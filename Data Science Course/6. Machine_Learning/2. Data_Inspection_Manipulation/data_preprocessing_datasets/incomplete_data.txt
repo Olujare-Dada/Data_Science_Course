@@ -1,0 +1,21 @@
+Name,Age,Favorite_food
+Olujare,27,Beans
+Fiyin,18,Yam
+Priscillia,12,Rice
+Doyin,35,Fufu
+Emeka,22,Rice
+Godwin,55,
+Cynthia,26,Chicken and chips
+Victor,30,Plantain
+Victoria,,Goat meat
+Yemi,23,Vegetable
+Oyinda,21,Custard
+Wale,23,Akara
+Kemi,,Moin-moin
+Tutu,27,Catfish
+,29,Chicken
+Samson,31,Noodles
+Onyinye,33,Spaghetti
+Ibrahim,35,Hotdog
+Kunle,37,Burger
+Atinuke,39,Ice-cream

@@ -1,0 +1,9 @@
+at row 36: missing value, incomplete data
+
+at rows 50, 65, and 96: inconsistent data.
+
+age column: wrong format
+
+at rows 86 and 48: invalid data
+
+at rows 105,106,107 = 84,85,86
